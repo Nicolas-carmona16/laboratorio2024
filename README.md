@@ -1,3 +1,13 @@
+[![CI/CD Pipeline](https://github.com/Nicolas-carmona16/laboratorio2024/actions/workflows/build.yml/badge.svg)](https://github.com/Nicolas-carmona16/laboratorio2024/actions/workflows/build.yml)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Nicolas-carmona16_laboratorio20242&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Nicolas-carmona16_laboratorio20242)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Nicolas-carmona16_laboratorio20242&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Nicolas-carmona16_laboratorio20242)
+
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Nicolas-carmona16_laboratorio20242&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Nicolas-carmona16_laboratorio20242)
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Nicolas-carmona16_laboratorio20242&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Nicolas-carmona16_laboratorio20242)
+
 Implementation of a Simple App with the next operations:
 
 * Get random nations
